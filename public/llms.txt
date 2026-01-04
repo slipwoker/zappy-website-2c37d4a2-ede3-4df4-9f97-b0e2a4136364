@@ -1,50 +1,60 @@
-# Business — Generative Engine Optimization Map
+# Family Fun — Generative Engine Optimization Map
+
+> A בידור ופנאי משפחתי business.
 
 ---
 
 ## Pages
 
 ### גלו חוויות משפחתיות מהנות ביותר — Family Fun
-https://example.com
+https://family-fun.zappy5.app
 חפשו פעילויות משפחתיות מותאמות אישית. Family Fun מסנן ומתאים פעילויות לפי צרכיכם. התחילו עכשיו!
 
 ### מגוון פעילויות משפחתיות מותאמות אישית — Family Fun
-https://example.com/activities
+https://family-fun.zappy5.app/activities
 גלו את כל הפעילויות המשפחתיות באזורכם - family fun places near me עם סינון חכם לפי גיל, תחומי עניין ומיקום.
 
 ### הסיפור שלנו ומשימת Family Fun — Family Fun
-https://example.com/about
+https://family-fun.zappy5.app/about
 גלו את הסיפור מאחורי Family Fun - הפלטפורמה שעוזרת לאלפי משפחות למצוא things to do with kids near me.
 
 ### צרו קשר עם Family Fun — Family Fun
-https://example.com/contact
+https://family-fun.zappy5.app/contact
 יש לכם שאלות על family fun near me או צריכים עזרה למצוא פעילויות? צרו קשר עם הצוות שלנו - נשמח לעזור!
 
 ### הצטרפו כשותפים עסקיים - Family Fun
-https://example.com/business-partners
+https://family-fun.zappy5.app/business-partners
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://family-fun.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://family-fun.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://family-fun.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Family Fun
+Family Fun is a business in the בידור ופנאי משפחתי industry.
+
+## Target Audience
+ילדים ומשפחות
+
+## Industry
+בידור ופנאי משפחתי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://family-fun.zappy5.app/sitemap.xml
+- **Robots.txt**: https://family-fun.zappy5.app/robots.txt
