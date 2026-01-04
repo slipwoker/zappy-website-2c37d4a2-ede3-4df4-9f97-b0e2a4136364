@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-2c37d4a2-ede3-4df4-9f97.onrender.com/sitemap.xml
+Sitemap: https://family-fun.zappy5.app/sitemap.xml
