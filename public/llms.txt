@@ -1,6 +1,4 @@
-# Family Fun — Generative Engine Optimization Map
-
-> A בידור ופנאי משפחתי business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -43,15 +41,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Family Fun
-Family Fun is a business in the בידור ופנאי משפחתי industry.
-
-## Target Audience
-ילדים ומשפחות
-
-## Industry
-בידור ופנאי משפחתי
-
+## About Business
 ---
 
 # Additional Resources
