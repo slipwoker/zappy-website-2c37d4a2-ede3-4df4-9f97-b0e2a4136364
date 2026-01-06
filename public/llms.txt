@@ -1,50 +1,60 @@
-# Business — Generative Engine Optimization Map
+# Family Fun — Generative Engine Optimization Map
+
+> A בידור ופנאי משפחתי business.
 
 ---
 
 ## Pages
 
 ### גלו חוויות משפחתיות מהנות ביותר — Family Fun
-https://family-fun.zappy5.app
+https://zappy-site-2c37d4a2-ede3-4df4-9f97.onrender.com
 חפשו פעילויות משפחתיות מותאמות אישית. Family Fun מסנן ומתאים פעילויות לפי צרכיכם. התחילו עכשיו!
 
 ### מגוון פעילויות משפחתיות מותאמות אישית — Family Fun
-https://family-fun.zappy5.app/activities
+https://zappy-site-2c37d4a2-ede3-4df4-9f97.onrender.com/activities
 גלו את כל הפעילויות המשפחתיות באזורכם - family fun places near me עם סינון חכם לפי גיל, תחומי עניין ומיקום.
 
 ### הסיפור שלנו ומשימת Family Fun — Family Fun
-https://family-fun.zappy5.app/about
+https://zappy-site-2c37d4a2-ede3-4df4-9f97.onrender.com/about
 גלו את הסיפור מאחורי Family Fun - הפלטפורמה שעוזרת לאלפי משפחות למצוא things to do with kids near me.
 
 ### צרו קשר עם Family Fun — Family Fun
-https://family-fun.zappy5.app/contact
+https://zappy-site-2c37d4a2-ede3-4df4-9f97.onrender.com/contact
 יש לכם שאלות על family fun near me או צריכים עזרה למצוא פעילויות? צרו קשר עם הצוות שלנו - נשמח לעזור!
 
 ### הצטרפו כשותפים עסקיים - Family Fun
-https://family-fun.zappy5.app/business-partners
+https://zappy-site-2c37d4a2-ede3-4df4-9f97.onrender.com/business-partners
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://family-fun.zappy5.app/privacy
+https://zappy-site-2c37d4a2-ede3-4df4-9f97.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://family-fun.zappy5.app/terms
+https://zappy-site-2c37d4a2-ede3-4df4-9f97.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://family-fun.zappy5.app/accessibility
+https://zappy-site-2c37d4a2-ede3-4df4-9f97.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Family Fun
+Family Fun is a business in the בידור ופנאי משפחתי industry.
+
+## Target Audience
+ילדים ומשפחות
+
+## Industry
+בידור ופנאי משפחתי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://family-fun.zappy5.app/sitemap.xml
-- **Robots.txt**: https://family-fun.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-2c37d4a2-ede3-4df4-9f97.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-2c37d4a2-ede3-4df4-9f97.onrender.com/robots.txt
